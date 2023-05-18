@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a PhD student at CU Boulder working on plant systems biology. 🌱
+
 <!--
 **LeoOrozco/LeoOrozco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
